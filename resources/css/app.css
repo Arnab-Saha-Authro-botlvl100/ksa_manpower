@@ -1,0 +1,12 @@
+.hero-section{
+    background-image:url("/public/assets/images/hero1.jpg");
+    background-size:cover;
+
+}
+#loginForm{
+    background:black !important;
+}
+
+a{
+    text-decoration: none !important;
+}
